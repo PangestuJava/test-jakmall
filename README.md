@@ -8,7 +8,7 @@ Customize database in the .env file
   DB_DATABASE=...
 ```
 
--   Create a new database on the localserver according to the DB_DATABASE
+Create a new database on the localserver according to the DB_DATABASE
 
 ```bash
     composer install
